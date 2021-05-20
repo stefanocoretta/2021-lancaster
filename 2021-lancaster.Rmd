@@ -46,9 +46,9 @@ class: middle
 .f2[
 - Conceptual background
 
-- Vowel nasalisation
+- Typological survey
 
-- Development of contrastive nasalisation
+- Contrastive nasalisation
 
 - English MRI data
 
@@ -62,7 +62,7 @@ class: inverse middle center bg-black
 
 ---
 
-# Phon(et)ological system
+# Phon(et)ological systems
 
 ---
 
@@ -142,27 +142,32 @@ Every type of sound variation/alternation is "phonologised" (i.e. neuro-cognitiv
 
 ---
 
-class: inverse, center, middle
+class: inverse, center, middle bg-black
 
-# .light-green[.small-caps[vowel nasalisation]]
+# .dark-green[.small-caps[vowel nasalisation]]
 
 ---
 
-class: inverse, center, middle
+class: inverse, center, middle bg-black
 
-# .f2.small-caps[coarticulatory]
+# .small-caps[coarticulatory]
 
 # ⬆︎
 
-# .light-green[.small-caps[vowel nasalisation]]
+# .dark-green[.small-caps[vowel nasalisation]]
 
 # ⬇︎
 
-# .f2.small-caps[contrastive]
+# .small-caps[contrastive]
+
 
 ---
+class: inverse middle center bg-black
 
-# Contrastive vowel nasalisation
+# .small-caps[contrastive nasalisation]
+
+---
+class: middle
 
 .center[
 .b[Konai]
@@ -281,7 +286,7 @@ class: inverse middle center bg-black
 
 class: inverse middle center bg-black
 
-# .dark-green[VOWEL~NASAL COARTICULATION]
+# .dark-green[VOWEL~NASAL <br><br> COARTICULATION]
 
 ---
 
@@ -348,7 +353,7 @@ class: center middle
 
 class: middle center
 
-.f1[Ṽ.green[N] > Ṽ.light-green[N] > Ṽ.light-gray[N] >  .green[Ṽ]]
+# Ṽ.green[N] > Ṽ.light-green[N] > Ṽ.light-gray[N] >  .green[Ṽ]
 
 ---
 
@@ -423,7 +428,7 @@ Synchronic data from ~30 German speakers.
 
 ---
 
-class: inverse, center, middle
+class: inverse, center, middle bg-black
 
 # What does the<br>.dark-green[reduction of nasals]<br>look like?
 
@@ -521,9 +526,13 @@ The degree of nasalisation in contrastive nasalised vowels tends to be greater t
 
 ---
 
-class: inverse, middle, center
+class: inverse, middle, center, bg-black
 
-# That's all folks!
+# That's all!
+
+(ask me about this meme)
+
+![:scale 80%](img/madea.png)
 
 ---
 
