@@ -37,7 +37,6 @@ options(
 xaringanExtra::use_xaringan_extra(c("panelset", "tachyons"))
 ```
 
----
 
 class: middle
 
@@ -48,7 +47,7 @@ class: middle
 
 - Typological survey
 
-- Contrastive nasalisation
+- Diachrony
 
 - English MRI data
 
@@ -63,6 +62,10 @@ class: inverse middle center bg-black
 ---
 
 # Phon(et)ological systems
+
+.center[
+![](img/drake-phonetology.jpg)
+]
 
 ---
 
@@ -140,34 +143,16 @@ Every type of sound variation/alternation is "phonologised" (i.e. neuro-cognitiv
 
 ]
 
----
-
-class: inverse, center, middle bg-black
-
-# .dark-green[.small-caps[vowel nasalisation]]
-
----
-
-class: inverse, center, middle bg-black
-
-# .small-caps[coarticulatory]
-
-# ⬆︎
-
-# .dark-green[.small-caps[vowel nasalisation]]
-
-# ⬇︎
-
-# .small-caps[contrastive]
-
 
 ---
 class: inverse middle center bg-black
 
-# .small-caps[contrastive nasalisation]
+# .small-caps[typology]
 
 ---
 class: middle
+
+# Contrastive vowel nasalisation
 
 .center[
 .b[Konai]
@@ -275,6 +260,11 @@ p_2 + geom_text(
   )
 ```
 
+---
+
+class: inverse middle center bg-black
+
+# .small-caps[diachrony]
 
 ---
 
@@ -284,9 +274,15 @@ class: inverse middle center bg-black
 
 ---
 
-class: inverse middle center bg-black
+class: middle center 
 
-# .dark-green[VOWEL~NASAL <br><br> COARTICULATION]
+# What does it take?
+
+---
+
+class: middle center
+
+# VOWEL~NASAL <br><br> COARTICULATION
 
 ---
 
