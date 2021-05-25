@@ -2,7 +2,7 @@
 title: "Exploring pathways to contrastive vowel nasalisation"
 subtitle: "Or what today's articulatory patterns can tell us about yesterday's sound change"
 author: "Stefano Coretta"
-institute: "Institute of Phonetics and Speech Processes LMU"
+institute: "Institute of Phonetics and Speech Processing LMU"
 date: "2021/05/25"
 output:
   xaringan::moon_reader:
@@ -37,6 +37,12 @@ options(
 xaringanExtra::use_xaringan_extra(c("panelset", "tachyons"))
 ```
 
+class: middle center
+
+![:scale 50%](img/IPS_Logo_deutsch.png)
+![](img/LOGO-ERC.jpg)
+
+---
 
 class: middle
 
@@ -268,12 +274,6 @@ class: inverse middle center bg-black
 
 ---
 
-class: inverse middle center bg-black
-
-# .dark-green[What does it take?]
-
----
-
 class: middle center 
 
 # What does it take?
@@ -349,82 +349,12 @@ class: center middle
 
 class: middle center
 
-# Ṽ.green[N] > Ṽ.light-green[N] > Ṽ.light-gray[N] >  .green[Ṽ]
-
----
-
-class: inverse middle right bg-black
-
-# What does the development of .dark-green[contrastive nasalisation] look like?
+<span style="font-size:5rem;">Ṽ.green[N] > Ṽ.light-green[N] > Ṽ.light-gray[N] >  .green[Ṽ]</span>
 
 
 ---
 
-# Source/Effect Trading model (SET)
-
-
-.panelset[
-
-.panel[.panel-name[Concept]
-
-.center[
-![](img/models/set.svg)
-]
-
-.tr[
-— Beddor 2009, 2012
-]
-
-]
-
-.panel[.panel-name[Expectations]
-
-.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
-
-1. Diachronically, the **velum gesture shifts earlier** (towards the vowel) but its duration and amplitude don't change.
-
-2. Synchronically, this should show up as an **earlier velum gesture if the C in NC is voiceless** (e.g. *bent* vs *bend*).
-
-]
-
-.tr[
-— Beddor 2009, 2012
-]
-
-]
-
-.panel[.panel-name[Observed]
-
-.bg-washed-yellow.b--orange.ba.bw2.br3.shadow-5.ph4.mt5[
-
-Synchronic data from ~30 German speakers.
-
-➜ The velum gesture is earlier when C is voiceless, ***but* both duration and amplitude decrease**.
-
-]
-
-.tr[
-— Carignan et al. 2021
-]
-
-]
-
-]
-
----
-
-# Cue Re-Weighting model (CReW)
-
-
-
-![](img/models/crew.svg)
-.tr[
-— Carignan et al. 2021
-]
-
----
-
-class: inverse, center, middle bg-black
+class: center middle
 
 # What does the<br>.dark-green[reduction of nasals]<br>look like?
 
@@ -532,3 +462,71 @@ class: inverse, middle, center, bg-black
 
 ---
 
+class: middle right
+
+# What about <br> .dark-green[sound change]?
+
+
+---
+
+# Source/Effect Trading model (SET)
+
+
+.panelset[
+
+.panel[.panel-name[Concept]
+
+.center[
+![](img/models/set.svg)
+]
+
+.tr[
+— Beddor 2009, 2012
+]
+
+]
+
+.panel[.panel-name[Expectations]
+
+.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+
+1. Diachronically, the **velum gesture shifts earlier** (towards the vowel) but its duration and amplitude don't change.
+
+2. Synchronically, this should show up as an **earlier velum gesture if the C in NC is voiceless** (e.g. *bent* vs *bend*).
+
+]
+
+.tr[
+— Beddor 2009, 2012
+]
+
+]
+
+.panel[.panel-name[Observed]
+
+.bg-washed-yellow.b--orange.ba.bw2.br3.shadow-5.ph4.mt5[
+
+Synchronic data from ~30 German speakers.
+
+➜ The velum gesture is earlier when C is voiceless, ***but* both duration and amplitude decrease**.
+
+]
+
+.tr[
+— Carignan et al. 2021
+]
+
+]
+
+]
+
+---
+
+# Cue Re-Weighting model (CReW)
+
+
+
+![](img/models/crew.svg)
+.tr[
+— Carignan et al. 2021
+]
